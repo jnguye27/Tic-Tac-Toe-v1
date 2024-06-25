@@ -1,35 +1,10 @@
-# Project Title
-
-Simple overview of use/purpose.
-
-## Description
-
-An in-depth paragraph about your project and overview of use.
-
-## Getting Started
-
-### Dependencies
-
-* Describe any prerequisites, libraries, OS version, etc., needed before installing and running your program.
-
-
-
-### Executing program
-
-* How to build and run the program
-* Step-by-step bullets
-```
-use code blocks for commands
-```
-* include the expected output
-
-## Limitations
-
-What isn't done? What things cause errors?  
+# Tic-Tac-Toe V1
+Description:  
+A 2-player game to complete a row, column, or diagonal line with 3 O's or X's in the grid.
 
 ## Author Information
 
-Your name and contact information including your email address
+Creator: Jessica Nguyen
 
 ## Development History
 
