@@ -1,5 +1,6 @@
 /* 
-Made by: Jessica Nguyen (1169812)
+Program: Tic-Tac-Toe 
+Creator: Jessica Nguyen
 Date: 2022-09-27
 Note: Majority of functions are void since all of the needed values are within TicTacToeP.java
 The only issue with this program is that it doesn't allow char, but since our only objective 
